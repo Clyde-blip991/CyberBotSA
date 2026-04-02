@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\sound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1743FB84-992D-46D5-BC37-532708FDE1CB}|sound\\CyberBotSA.csproj|c:\\users\\student\\source\\repos\\sound\\sound\\cyberbotsa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1743FB84-992D-46D5-BC37-532708FDE1CB}|sound\\CyberBotSA.csproj|solutionrelative:sound\\cyberbotsa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1743FB84-992D-46D5-BC37-532708FDE1CB}|sound\\sound.csproj|c:\\users\\student\\source\\repos\\sound\\sound\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1743FB84-992D-46D5-BC37-532708FDE1CB}|sound\\sound.csproj|solutionrelative:sound\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1743FB84-992D-46D5-BC37-532708FDE1CB}|sound\\sound.csproj|c:\\users\\student\\source\\repos\\sound\\sound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1743FB84-992D-46D5-BC37-532708FDE1CB}|sound\\sound.csproj|solutionrelative:sound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1743FB84-992D-46D5-BC37-532708FDE1CB}|sound\\sound.csproj|c:\\users\\student\\source\\repos\\sound\\sound\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1743FB84-992D-46D5-BC37-532708FDE1CB}|sound\\sound.csproj|solutionrelative:sound\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1743FB84-992D-46D5-BC37-532708FDE1CB}|sound\\sound.csproj|c:\\users\\student\\source\\repos\\sound\\sound\\responseengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1743FB84-992D-46D5-BC37-532708FDE1CB}|sound\\sound.csproj|solutionrelative:sound\\responseengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1743FB84-992D-46D5-BC37-532708FDE1CB}|sound\\sound.csproj|c:\\users\\student\\source\\repos\\sound\\sound\\displayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1743FB84-992D-46D5-BC37-532708FDE1CB}|sound\\sound.csproj|solutionrelative:sound\\displayhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1743FB84-992D-46D5-BC37-532708FDE1CB}|sound\\sound.csproj|c:\\users\\student\\source\\repos\\sound\\sound\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1743FB84-992D-46D5-BC37-532708FDE1CB}|sound\\sound.csproj|solutionrelative:sound\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\sound\\sound\\Program.cs",
+              "RelativeDocumentMoniker": "sound\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\sound\\sound\\Program.cs",
+              "RelativeToolTip": "sound\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:15:59.396Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CyberBotSA",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\sound\\sound\\CyberBotSA.csproj",
+              "RelativeDocumentMoniker": "sound\\CyberBotSA.csproj",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\sound\\sound\\CyberBotSA.csproj",
+              "RelativeToolTip": "sound\\CyberBotSA.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-01T23:39:05.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResponseEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\sound\\sound\\ResponseEngine.cs",
+              "RelativeDocumentMoniker": "sound\\ResponseEngine.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\sound\\sound\\ResponseEngine.cs",
+              "RelativeToolTip": "sound\\ResponseEngine.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:26:45.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\sound\\sound\\UIHelper.cs",
+              "RelativeDocumentMoniker": "sound\\UIHelper.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\sound\\sound\\UIHelper.cs",
+              "RelativeToolTip": "sound\\UIHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:25:38.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\sound\\sound\\DisplayHelper.cs",
+              "RelativeDocumentMoniker": "sound\\DisplayHelper.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\sound\\sound\\DisplayHelper.cs",
+              "RelativeToolTip": "sound\\DisplayHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:25:10.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Audioplayer.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\sound\\sound\\Audioplayer.cs",
+              "RelativeDocumentMoniker": "sound\\Audioplayer.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\sound\\sound\\Audioplayer.cs",
+              "RelativeToolTip": "sound\\Audioplayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:23:54.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatBot.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\sound\\sound\\ChatBot.cs",
+              "RelativeDocumentMoniker": "sound\\ChatBot.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\sound\\sound\\ChatBot.cs",
+              "RelativeToolTip": "sound\\ChatBot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:26:08.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
