@@ -17,3 +17,4 @@ How to Run
 3. Follow the on-screen prompts
 
 CI Workflow - Green Checkmark Screenshot
+![CI Workflow](ci-screenshit.png)
